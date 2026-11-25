@@ -10,6 +10,7 @@
 | [STORY.md](STORY.md) | סיפור לדוגמה: דניאל בונה את "מסלול", צעד אחרי צעד |
 | [CHECKLIST.md](CHECKLIST.md) | צ'קליסט לפרויקט חדש |
 | [LESSONS.md](LESSONS.md) | מה למדנו מפרויקטים אמיתיים שנבנו בשיטה |
+| [GITHUB.md](GITHUB.md) | Git ו-GitHub בלי קוד: ריפו, קומיט, ענף, push, Pages ועוד |
 | [template/](template/) | קבצי הפתיחה של כל פרויקט חדש |
 
 ## איך מתחילים פרויקט חדש
